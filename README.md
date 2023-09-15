@@ -1,0 +1,1 @@
+# Prediction-of-FIFA-world-cup-2022-using-pytorch
